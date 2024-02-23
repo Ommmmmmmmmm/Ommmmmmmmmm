@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ommmmmmmmmm
+- 👋 Hi, I’m @Om
 - 👀 I’m interested in app development 
 - 🌱 I’m currently learning android studio
 - 💞️ I’m looking to collaborate on ...
